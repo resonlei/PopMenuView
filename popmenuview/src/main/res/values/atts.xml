@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="position">
+        <enum name="top_left" value="0"/>
+        <enum name="top_right" value="1"/>
+        <enum name="bottom_left" value="2"/>
+        <enum name="bottom_right" value="3"/>
+    </attr>
+    <attr name="radius" format="dimension"/>
+
+    <declare-styleable name="PopMenu">
+        <attr name="position"/>
+        <attr name="radius"/>
+    </declare-styleable>
+
+</resources>
