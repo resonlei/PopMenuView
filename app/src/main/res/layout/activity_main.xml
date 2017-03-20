@@ -19,39 +19,41 @@
         resonlei:radius="200dp"
         resonlei:position="bottom_right">
 
-        <!--<ImageView-->
-                <!--android:id="@+id/id_button"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:src="@mipmap/menu" />-->
+    <!--
+    <ImageView
+            android:id="@+id/id_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/menu" />
 
 
-        <!--<ImageView-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:scaleType="centerCrop"-->
-            <!--android:src="@mipmap/item_about"-->
-            <!--android:tag="Camera" />-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/item_about"
+        android:tag="Camera" />
 
-        <!--<ImageView-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:src="@mipmap/item_add"-->
-            <!--android:tag="Sun" />-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/item_add"
+        android:tag="Sun" />
 
-        <!--<ImageView-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:src="@mipmap/item_del"-->
-            <!--android:tag="Place" />-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/item_del"
+        android:tag="Place" />
 
-        <!--<ImageView-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:src="@mipmap/item_settime"-->
-            <!--android:tag="Sleep" />-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/item_settime"
+        android:tag="Sleep" />
+-->
+</resonlei.top.popmenuview.PopMenu>
 
-    </resonlei.top.popmenuview.PopMenu>
 
 
 </RelativeLayout>

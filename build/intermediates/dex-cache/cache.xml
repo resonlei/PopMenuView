@@ -5,7 +5,7 @@
         jar="C:\Users\Administrator\AndroidStudioProjects2\PopMenu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="f4be9d77bbd06017ff9ed6eb1ed421c07bc51b2a">
+        sha1="99bc72347b0c4c90efeda1a3b1d79f38986ab015">
         <dex dex="C:\Users\Administrator\AndroidStudioProjects2\PopMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ba7c3d2d69906d6aaf75defa4ea73fa78106b0a9\classes.dex" />
     </item>
     <item
@@ -40,7 +40,7 @@
         jar="C:\Users\Administrator\AndroidStudioProjects2\PopMenu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="ead91ce19d7b7ddbbc35482211a35d11be91e74d">
+        sha1="ae88bb8b5578dabad27bb75e9d850a350f6ef81a">
         <dex dex="C:\Users\Administrator\AndroidStudioProjects2\PopMenu\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_08689c3dfc1f63c9746bd034ed6730300695e159\classes.dex" />
     </item>
     <item

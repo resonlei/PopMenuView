@@ -47,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
                 .setItem(R.mipmap.ic_launcher,"android4")
                 .setItem(R.mipmap.ic_launcher,"android5");
 
-
         mPopupMenu.setOnMenuItemClickListener(new PopMenu.OnMenuItemClickListener() {
             @Override
             public void onClick(View view, int pos) {

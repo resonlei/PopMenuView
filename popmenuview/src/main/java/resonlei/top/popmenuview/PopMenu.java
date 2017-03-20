@@ -236,7 +236,7 @@ public class PopMenu extends ViewGroup implements View.OnClickListener {
         if (mButton == null){
             return;
         }
-        rotateView(mButton, 0f, 360f, 300);
+        rotateView(mButton, 0f, 180f, 300);
         toggleMenu(300);
     }
 
@@ -328,11 +328,14 @@ public class PopMenu extends ViewGroup implements View.OnClickListener {
 
             animation.setFillAfter(true);
             animation.setDuration(durationMillis);
-            // 为动画设置一个开始延迟时间，纯属好看，可以不设
+            // 为动画设置一个开始延迟时间
             animation.setStartOffset((i * 100) / (count - 1));
             RotateAnimation rotate = new RotateAnimation(0, 720,
                     Animation.RELATIVE_TO_SELF, 0.5f,
                     Animation.RELATIVE_TO_SELF, 0.5f);
+            if (mCurrentStatus == Status.CLOSE){
+
+            }
             rotate.setDuration(durationMillis);
             rotate.setFillAfter(true);
             animset.addAnimation(rotate);
